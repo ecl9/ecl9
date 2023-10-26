@@ -15,7 +15,7 @@
 
 🛠️ **Tech Stack**
 
-- 🌐 Ruby, Ruby on Rails, Sinatra, JavaScript, React, HTML, CSS
+- 🌐 MERN, Ruby, Ruby on Rails, Sinatra, JavaScript, Typescript, React, NestJS, ExpressJS
 - 🛢️ PostgreSQL, MongoDB
 - 🌐 GraphQL, RESTful APIs
 - 📦 Git, Webpack, Docker
