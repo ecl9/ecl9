@@ -15,11 +15,11 @@
 
 🛠️ **Tech Stack**
 
-- 🌐 MERN, Ruby, Ruby on Rails, Sinatra, JavaScript, Typescript, React, NestJS, ExpressJS
+- 🌐 Ruby, Ruby on Rails, React, Typescript, JavaScript, NestJS, ExpressJS
 - 🛢️ PostgreSQL, MongoDB
 - 🌐 GraphQL, RESTful APIs
-- 📦 Git, Webpack, Docker
-- 🖌️ Headless Shoopify, NextJS
+- 📦 Docker
+- 🖌️ NextJS
 
 ---
 
