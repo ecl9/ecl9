@@ -2,7 +2,6 @@
 
 #### Just a Dev who loves to solve problems and build cool stuff!
 
----
 
  **About Me**
 
@@ -11,7 +10,6 @@
 - I specialize in crafting custom themes for Headless Shopify and can make Sinatra apps sing.
 - Open for collaborations, especially if it involves solving complex e-commerce puzzles.
   
----
 
  **Tech Stack**
 
@@ -21,6 +19,5 @@
 - Docker
 - NextJS
 
----
 
 Remember, we're all continually learning. Happy coding, y'all! 🎉
