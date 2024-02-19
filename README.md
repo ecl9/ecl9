@@ -1,5 +1,3 @@
-### Hey there 👋
-
 #### Just a Dev who loves to solve problems and build cool stuff!
 
 
