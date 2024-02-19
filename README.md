@@ -4,7 +4,7 @@
  **About Me**
 
 - Currently on a never-ending quest to learn all things web development!
-- My happy place is where Ruby meets Rails and JavaScript shakes hands with React.
+- My happy place is where JavaScript shakes hands with React and Ruby meets Rails.
 - I specialize in crafting custom themes for Headless Shopify and can make Sinatra apps sing.
 - Open for collaborations, especially if it involves solving complex e-commerce puzzles.
   
