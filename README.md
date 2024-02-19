@@ -13,7 +13,7 @@
 
  **Tech Stack**
 
-- Ruby, Ruby on Rails, React, Typescript, JavaScript, NestJS, ExpressJS
+- Node.js, React, Typescript, JavaScript, NestJS, ExpressJS, Hapi, Ruby, Ruby on Rails
 - PostgreSQL, MongoDB
 - GraphQL, RESTful APIs
 - Docker
